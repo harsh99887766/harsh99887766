@@ -4,7 +4,7 @@
 
 <!-- Animated Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Frontend+Developer+%7C+React.js;Aspiring+Full+Stack+Developer;Learner+%7C+Builder+%7C+Hackathon+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=440&lines=MERN+Stack+Developer;AgenticAI+GenAI;Learner+%7C+Builder+%7C+Hackathon+Enthusiast" alt="Typing SVG" />
 </p>
 
 <!-- Contact -->
@@ -19,7 +19,7 @@
 ## 🧠 About Me
 
 🎓 IT Undergraduate @ PICT, Pune  
-💻 Frontend Developer (React.js) • Aspiring Full Stack Developer  
+💻 MERN Stack Developer • Passionate About AI/ML  
 ⚡ 2★ on CodeChef | Passionate about problem solving and learning new technologies  
 🚀 Keen on building robust and scalable web applications  
 🏆 Hackathon Enthusiast | Always exploring new ideas  
@@ -47,23 +47,15 @@
 
 ## 🌟 Featured Projects
 
-### 📦 [Automated Delivery Collection System](https://github.com/harsh99887766/Automated-Delivery-Collection-System)
+### 📦 Automated Delivery Collection System
 > A smart system for automating delivery collection and management  
 🔹 Improves efficiency in delivery handling  
 🔹 Designed for scalable and practical deployment  
 
-### 📝 [UML Diagram Creator](https://github.com/harsh99887766/UML-Creation-Project)
+### 📝 UML Diagram Creator
 > A project for creating UML diagrams dynamically  
 🔹 Generates class, sequence, and use-case diagrams  
 🔹 Useful for software design and documentation  
-
----
-
-## 🚀 Projects in Progress
-
-- 🌐 **Full Stack Portfolio Website** — Showcasing projects with backend integration  
-- 📊 **Task Manager App** — Using MERN stack for CRUD operations and user authentication  
-- 🛠 **Learning Node.js & Express** — Building RESTful APIs with MongoDB  
 
 ---
 
