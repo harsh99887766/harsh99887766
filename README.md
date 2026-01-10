@@ -20,7 +20,7 @@
 
 🎓 IT Undergraduate @ PICT, Pune  
 💻 MERN Stack Developer • Passionate About AI/ML  
-⚡ 2★ on CodeChef | Passionate about problem solving and learning new technologies  
+⚡ 3★ on CodeChef | 400+ Problems Solved on Leetcode | 300+ Problems Solved on CodeForces
 🚀 Keen on building robust and scalable web applications  
 🏆 Hackathon Enthusiast | Always exploring new ideas  
 
@@ -55,7 +55,15 @@
 ### 📝 UML Diagram Creator
 > A project for creating UML diagrams dynamically  
 🔹 Generates class, sequence, and use-case diagrams  
-🔹 Useful for software design and documentation  
+🔹 Useful for software design and documentation
+
+
+### ⚖️ AI-Based Legal Section Identification System (RAG-Powered)
+🔹 An intelligent system for legal document understanding and section mapping
+🔹 Uses Retrieval-Augmented Generation (RAG) to extract key points from large legal PDFs
+🔹 Identifies and maps relevant IPC/CrPC/other law sections from case hearing documents
+🔹 Enables efficient legal research, summarization, and decision support
+🔹 Designed to handle large-scale, unstructured legal datasets
 
 ---
 
