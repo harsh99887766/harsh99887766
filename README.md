@@ -84,14 +84,16 @@
 🔹 Designed for scalable ingestion and high-accuracy legal document classification  
 
 📌 Repository is private due to dataset sensitivity.
+
 ---
 
 ## 🏆 Achievements
 
 - ⭐ **3★ CodeChef**, active competitive programmer  
-- 📚 Strong DSA background across LeetCode & Codeforces  
-- 🏆 Participated in multiple hackathons with real-world solutions  
-- 🎓 IT Undergraduate at **PICT, Pune**
+- 🚀 Winner of XENIA Hackathon 2026 (PICT CSI)
+- 🏅 Participant – Code for Change Hackathon by Mastercard  
+- 🚀 Institute-Level Selection – Smart India Hackathon (SIH) 
+- 🚀 450+ Problems Solved on LeetCode | 300+ on Codeforces
 
 ---
 
