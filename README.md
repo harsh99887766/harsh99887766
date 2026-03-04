@@ -50,28 +50,40 @@
 
 ## 🌟 Featured Projects
 
-### 📦 Automated Delivery Collection System
-> A smart system for automating delivery collection and management  
-🔹 Improves efficiency in delivery handling  
-🔹 Designed for scalable and practical deployment  
+### 📦 [IoT-Based Automated Delivery Collection System](https://github.com/harsh99887766/Automated_Delivery_Collection_IoT)
+> A distributed smart parcel management system built using IoT and real-time communication architecture.
+
+🔹 Built with ESP32, MQTT (HiveMQ), ultrasonic sensors, magnetic reed switches, and servo-based locking mechanisms  
+🔹 Implements event-driven communication with deep-sleep power optimization  
+🔹 Sensor fusion (ultrasonic + magnetic + weight detection) for delivery validation  
+🔹 Real-time status synchronization with Flutter-based mobile application  
+🔹 Designed for scalable multi-unit deployment using cloud-based messaging architecture
 
 ---
 
-### 📝 UML Diagram Creator
-> A system for dynamically generating UML diagrams  
-🔹 Supports **class, sequence, and use-case diagrams**  
-🔹 Useful for software design, visualization, and documentation  
+### 📝 AI-Assisted UML Diagram Generation Engine  
+> A hybrid system that dynamically converts raw source code into structured UML diagrams using AI-driven semantic parsing.
+
+🔹 NLP-based code parsing to extract entities, relationships, and dependencies  
+🔹 Integrates LLM APIs (Gemini) for semantic interpretation and structural mapping  
+🔹 Automatically generates Class, Sequence, and Use-Case diagrams  
+🔹 Supports both auto-generation and manual editing modes  
+🔹 Modular diagram rendering pipeline built for scalable web deployment  
+
+📌 Repository kept private. Architecture and implementation details available upon request. 
 
 ---
 
-### ⚖️ AI-Based Legal Section Identification System (RAG-Powered)
-> An intelligent legal document analysis platform  
-🔹 Uses **Retrieval-Augmented Generation (RAG)** for large legal PDFs  
-🔹 Extracts key information from case hearing documents  
-🔹 Identifies relevant **IPC / CrPC / other legal sections**  
-🔹 Enables faster legal research, summarization, and decision support  
-🔹 Built to handle **large-scale, unstructured legal datasets**
+### ⚖️ RAG-Powered Legal Section Identification System  
+> A large-scale legal intelligence platform designed to process unstructured judicial documents and automatically identify applicable statutory sections.
 
+🔹 Implements a Retrieval-Augmented Generation (RAG) pipeline for contextual legal reasoning  
+🔹 Uses vector embeddings with semantic search indexing for efficient document retrieval  
+🔹 Handles large PDF corpora using chunking, indexing, and contextual ranking strategies  
+🔹 Performs automated IPC / CrPC section mapping using contextual inference  
+🔹 Designed for scalable ingestion and high-accuracy legal document classification  
+
+📌 Repository is private due to dataset sensitivity.
 ---
 
 ## 🏆 Achievements
